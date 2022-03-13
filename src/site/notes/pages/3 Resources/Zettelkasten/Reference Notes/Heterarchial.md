@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/pages/3-resources/zettelkasten/reference-notes/heterarchial/"}
+{"dg-publish":true,"tags":null,"permalink":"/pages/3-resources/zettelkasten/reference-notes/heterarchial/"}
 ---
 
-[[pages/2 Areas/^ MOC Concepts|../../../2 Areas/^ MOC Concepts]] %% tags:: #concept %%
+[[pages/2 Areas/^ MOC Concepts|^ MOC Concepts]]
 
 # Heterarchial
 
