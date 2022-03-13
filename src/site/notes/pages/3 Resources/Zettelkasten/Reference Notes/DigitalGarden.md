@@ -7,7 +7,7 @@
 
 This is a site where a structure of thought, mental models, arguments and enlightenment will emerge over time. There is no top-down only or bottom-up only dogma, it will probably be a structure of building blocks and compositions of them.
 
-Random test of links [Heterarchial](Heterarchial.md)
+Random test of links [[pages/3 Resources/Zettelkasten/Reference Notes/Heterarchial|Heterarchial]]
 
 ## Where to go
 - [^ MOC Concepts](../../../2%20Areas/^%20MOC%20Concepts.md)
