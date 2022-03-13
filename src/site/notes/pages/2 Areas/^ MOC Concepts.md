@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/2-areas/moc-concepts/"}
+{"dg-publish":true,"dg-permalink":"concepts","permalink":"/concepts/"}
 ---
 
 [[pages/2 Areas/^ MOC PKM|^ MOC PKM]] %% tags:: #concept #MOC %%
