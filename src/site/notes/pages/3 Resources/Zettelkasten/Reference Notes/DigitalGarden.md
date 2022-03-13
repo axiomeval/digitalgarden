@@ -10,4 +10,4 @@ This is a site where a structure of thought, mental models, arguments and enligh
 Random test of links [[pages/3 Resources/Zettelkasten/Reference Notes/Heterarchial|Heterarchial]]
 
 ## Where to go
-- [^ MOC Concepts](../../../2%20Areas/^%20MOC%20Concepts.md)
+- [[pages/2 Areas/^ MOC Concepts|^ MOC Concepts]]
