@@ -7,4 +7,4 @@
 # Concepts Map of Content
 - [[pages/3 Resources/Zettelkasten/Reference Notes/Antitrust|Antitrust]]
 - [[pages/3 Resources/Zettelkasten/Reference Notes/Atomic|Atomic]]
-- [[pages/3 Resources/Zettelkasten/Reference Notes/Heterarchial|Heterarchial]]
+- [[pages/3 Resources/Zettelkasten/Reference Notes/= Heterarchial|= Heterarchial]]
