@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/2-areas/digital-garden/thoughts/"}
+{"dg-publish":true,"dg-permalink":"thoughts","permalink":"/thoughts/"}
 ---
 
 # Thoughts
