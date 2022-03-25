@@ -15,3 +15,7 @@
 div.language-ad-note {
   background-color: rgba(254, 254, 254, .5)
 }
+
+div[class=language-ad-note] > div {
+  background-color: rgba(68, 138, 255, .5)
+}
