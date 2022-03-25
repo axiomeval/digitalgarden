@@ -24,5 +24,3 @@
 ^99e9d1
 </div></div>
 
-
-why you no work?
