@@ -3,8 +3,13 @@
 ---
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+
+
+</div>
 
 
 [[pages/2 Areas/^ MOC Concepts|^ MOC Concepts]]
@@ -17,7 +22,7 @@
 > Links to my appreciation for graphs and the design of the WWW.
 
 ^99e9d1
-</div>
+</div></div>
 
 
 why you no work?
