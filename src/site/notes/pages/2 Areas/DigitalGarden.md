@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/pages/2-areas/digital-garden/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/pages/2-areas/digital-garden/","tags":"gardenEntry"}
 ---
 
 # AxiomEval
