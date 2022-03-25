@@ -6,4 +6,4 @@ These are divided into more atomic thoughts or building blocks and more combinat
 
 ## Building blocks and atomic thoughts
 
-- [[pages/2 Areas/Digital Garden/Heterarchial|Heterarchial]]
+- [[pages/2 Areas/Digital Garden/Heterarchy|Heterarchy]]
