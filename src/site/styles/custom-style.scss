@@ -16,6 +16,14 @@ div.language-ad-note {
   background-color: rgba(254, 254, 254, .5)
 }
 
+div.language-ad-quote {
+  background-color: rgba(254, 254, 254, .5)
+}
+
 div[class*=language-ad-note] .admonition-title {
   background-color: rgba(68, 138, 255, .5)
+}
+
+div[class*=language-ad-quote] .admonition-title {
+  background-color: rgba(158, 158, 158, .5)
 }
