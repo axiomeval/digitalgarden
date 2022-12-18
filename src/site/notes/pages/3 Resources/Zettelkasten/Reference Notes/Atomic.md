@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/pages/3-resources/zettelkasten/reference-notes/atomic/"}
 ---
 
-[[pages/2 Areas/^ MOC Concepts|^ MOC Concepts]]
+
+[[pages/2 Areas/^ MOC Concepts\|^ MOC Concepts]]
 
 # Atomic
 
