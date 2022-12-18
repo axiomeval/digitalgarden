@@ -5,10 +5,12 @@
 
 # Picard - my Ship's Log
 
+Published: 2022-12-18
+
 ## What is the problem this solves?
 
 - It is hard to remember where things go
-- Any organisational system inevitable becomes too complicated and takes too much time if we structure things too much up front
+- Any organisational system inevitably becomes too complicated and takes too much time if we structure things too much up front
 - A lack of customisation and inflexible tools do not meet our requirements
 
 ## What is the solution?
