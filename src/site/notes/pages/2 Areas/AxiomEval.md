@@ -8,5 +8,9 @@
 
 This is a site where a structure of thought, mental models, arguments and enlightenment will emerge over time. There is no top-down only or bottom-up only dogma, it will be a structure of building blocks and compositions of them.
 
-## Where to go
+## Thinking and what I do
 - [[pages/2 Areas/Digital Garden/Thoughts\|Thoughts]]
+
+## About me
+- [[pages/2 Areas/Digital Garden/Me\|Me]]
+
