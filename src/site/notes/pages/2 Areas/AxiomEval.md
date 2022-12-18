@@ -18,17 +18,3 @@ An emergence of ideas, mental models, structure and truth and some breadcrumbs d
 - [[pages/2 Areas/Digital Garden/Me\|Me]]
 
 
-
-
-
-
----
-
-### How this site is built
-
-It's a little slow - but its built out on incredible but free software - I'll spend some time optimising things - its my fault when it is slow.
-
-- Netlify
-- Obsidian
-- Digital Garden plugin for Obsidian
-
