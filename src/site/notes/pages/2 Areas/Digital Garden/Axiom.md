@@ -2,7 +2,8 @@
 {"dg-publish":true,"dg-permalink":"axiom","permalink":"/axiom/"}
 ---
 
-🔗  [[pages/2 Areas/Digital Garden/Thoughts|Thoughts]]
+
+🔗  [[pages/2 Areas/Digital Garden/Thoughts\|Thoughts]]
 
 # Axiom
 
