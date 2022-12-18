@@ -7,10 +7,13 @@
 
 ## What I do
 
+- [[pages/2 Areas/Digital Garden/Worklog\|Worklog]]
 - [[pages/2 Areas/Digital Garden/Bitek Software Ltd\|Bitek Software Ltd]]
 
 
 ## How I do it
+
+- [[pages/2 Areas/Digital Garden/Systems and tools\|Systems and tools]]
 
 
 ## Me
