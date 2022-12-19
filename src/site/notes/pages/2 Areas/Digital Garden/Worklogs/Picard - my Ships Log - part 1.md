@@ -3,9 +3,9 @@
 ---
 
 
-# Picard - my Ship's Log - part 1
-
 🔗  [[pages/2 Areas/Digital Garden/Worklog\|Worklog]]
+
+# Picard - my Ship's Log - part 1
 
 Published: 2022-12-18
 
