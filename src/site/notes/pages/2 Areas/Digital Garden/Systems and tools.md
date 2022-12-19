@@ -13,6 +13,7 @@
 - Walk three times a day - it will help you work and sleep!
 - Picard (My Ships Log) - organise your knowledge around a sound model of state and time
 - Email is a place where information goes to die, if its durable it needs a URI
+- The Code. The Evaluation. The Protocols - Jocko Willink
 - Loosely [Getting Things Done](http://gettingthingsdone.com/) for task management
 - A bit of [Linking your Thinking](https://www.linkingyourthinking.com)  and [PARA] (https://fortelabs.co/blog/para/)
 
