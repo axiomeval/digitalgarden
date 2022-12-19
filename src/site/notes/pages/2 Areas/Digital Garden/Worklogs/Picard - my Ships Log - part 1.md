@@ -15,7 +15,7 @@ Published: 2022-12-18
 - Any organisational system inevitably becomes too complicated and takes too much time if we structure things too much up front
 - A lack of customisation and inflexible tools do not meet our requirements
 
-## What is the solution?
+## What is this solution?
 
 - use daily notes to log everything
 - log with flexible tools and just enough structure with categories that work for the important elements in your life
