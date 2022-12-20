@@ -11,7 +11,7 @@
 
 - Get up and go for a run - at least three times a week - it will help you work and sleep!
 - Walk three times a day - it will help you work and sleep!
-- Picard (My Ships Log) - organise your knowledge around a sound model of state and time
+- [Picard](Picard - my Ships Log - part 1) (My Ships Log) - organise your knowledge around a sound model of state and time
 - Email is a place where information goes to die, if its durable it needs a URI
 - The Code. The Evaluation. The Protocols - Jocko Willink
 - Loosely [Getting Things Done](http://gettingthingsdone.com/) for task management
