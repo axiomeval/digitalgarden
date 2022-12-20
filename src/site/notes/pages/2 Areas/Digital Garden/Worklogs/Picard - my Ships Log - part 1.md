@@ -24,7 +24,7 @@ Published: 2022-12-18
 ## An example
 
 I use a setup including:
-- Obsidian
+- [Obsidian](https://obsidian.md/)
 - The Obsidian Quickadd Plugin
 - Some structure around things I want to log (my inspiration is The Code. The Evaluation. The Protocols - Jocko Willink)
 
