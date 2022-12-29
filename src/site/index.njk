@@ -27,10 +27,13 @@
         {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
           {%include "components/sidebar.njk" %}
         {%endif%}
+        <footer>
+          <ul>
+            <li><a class="u-uid u-url" href="https://www.axiomeval.org">AxiomEval</a></li>
+            <li><a class="u-url" href="https://axiomeval.social/@ross" rel="me">Mastodon</a></li>
+          </ul>
+        </footer>        
       </main>
     </div>
-    <footer>
-      <a rel="me" href="https://axiomeval.social/@ross">Mastodon</a>
-    </footer>
     </body>
   </html>
