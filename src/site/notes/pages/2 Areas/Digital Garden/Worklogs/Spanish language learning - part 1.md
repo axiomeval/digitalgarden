@@ -21,13 +21,13 @@ I focus more on outcomes and generally applicable and useful ideas here - and do
 
 - Learning languages is hard - especially when you don't have much time
 - Learning languages can be boring if you go about it the wrong way
-- I'm not convinced that verb tables and declensions and learning by rote are something you can take anywhere with you as a set of portable learning techniques
+- Verb tables, declensions and learning by rote are probably not portable learning techniques (can you work through them anytime anywhere using just your own mind?)
 
 
 ## What is this solution?
 
-- Use memory techniques; memory palace, visual encoding etc to make your tools for learning portable
-- Make sure everything is fun, visual, amusing - choose the right course(s), book(s) and use a mix of media
+- Use memory techniques [^1]; memory palace, visual encoding etc to make your tools for learning portable
+- Make sure everything is fun, visual, amusing - choose the right course(s) [^2], book(s) and use a mix of media
 - Figure out tools that let you both create and practice in a fun and visual way
 
 ## An example
@@ -116,3 +116,7 @@ And a spaced repetition deck is available for you whenever you would like it.
 And the best bit is aside from the course or the book(s) everything else is free and easy to set up.
 
 I have never been so engaged and excited to learn a language - the journey is in progress!
+
+## Footnotes
+- [^1]: It is hard to find a more comprehensive explanation than [Magnetic Memory Method](https://www.magneticmemorymethod.com)
+- [^2]:  The best Spanish course I've seen is [Master of Memory - Accelerated Spanish](https://spanish.masterofmemory.com)
