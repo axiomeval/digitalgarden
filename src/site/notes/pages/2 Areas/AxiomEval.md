@@ -15,6 +15,6 @@ An emergence of ideas, mental models, structure and truth and some breadcrumbs d
 - [[pages/2 Areas/Digital Garden/Thoughts\|Thoughts]]
 
 ## About me
-- [[pages/2 Areas/Digital Garden/Me\|Me]]
+- A little bit about [[pages/2 Areas/Digital Garden/Me\|Me]]
 
 
