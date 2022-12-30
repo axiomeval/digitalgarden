@@ -118,5 +118,5 @@ And the best bit is aside from the course or the book(s) everything else is free
 I have never been so engaged and excited to learn a language - the journey is in progress!
 
 ## Footnotes
-- [^1]: It is hard to find a more comprehensive explanation than [Magnetic Memory Method](https://www.magneticmemorymethod.com)
-- [^2]:  The best Spanish course I've seen is [Master of Memory - Accelerated Spanish](https://spanish.masterofmemory.com)
+[^1]: It is hard to find a more comprehensive explanation than [Magnetic Memory Method](https://www.magneticmemorymethod.com)
+[^2]:  The best Spanish course I've seen is [Master of Memory - Accelerated Spanish](https://spanish.masterofmemory.com)
