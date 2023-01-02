@@ -27,15 +27,18 @@
         {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
           {%include "components/sidebar.njk" %}
         {%endif%}
-        <footer>
-          <ul>
-            <li><a class="u-uid u-url" href="https://www.axiomeval.me">AxiomEval</a></li>
-            <li><a class="u-url" href="https://axiomeval.social/@ross" rel="me">Mastodon</a></li>
-            <li><a class="u-url" href="https://github.com/axiomeval" rel="me">Github</a></li>
-            <li><a class="u-url" href="https://indieweb.org/User:Www.axiomeval.me" rel="me">Indieweb</a></li>
-          </ul>
-        </footer>        
+       
+        <ul>
+          <li><a class="u-uid u-url" href="https://www.axiomeval.me">AxiomEval</a></li>
+          <li><a class="u-url" href="https://axiomeval.social/@ross" rel="me">Mastodon</a></li>
+          <li><a class="u-url" href="https://github.com/axiomeval" rel="me">Github</a></li>
+          <li><a class="u-url" href="https://indieweb.org/User:Www.axiomeval.me" rel="me">Indieweb</a></li>
+        </ul>
       </main>
     </div>
+    <footer>
+    <hr>
+    Site built with amazing free software: Obsidian.md, Obsidian Digital Garden plugin, Netlify.
+    </footer>
     </body>
   </html>
