@@ -23,10 +23,13 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 
     <div class="content cm-s-obsidian">
       <article class="h-entry">
+      <h1 class="p-name">{{ page.fileSlug }}</h1>
       {% if settings.dgShowInlineTitle === true %}
         <h1 class="p-name">{{ page.fileSlug }}</h1>
       {% endif %}
+      <div class="e-content">
       {{ content | link | highlight | safe}}
+      </div>
 
       {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
         {%include "components/sidebar.njk"%}
